@@ -1,0 +1,2 @@
+export const SWITCH_THEME_SAGA = "SWITCH_THEME_SAGA"
+export const SWITCH_THEME = "SWITCH_THEME"
